@@ -1815,3 +1815,9 @@ input {
   padding-left: 0px;
 }
 /*  */
+
+.base__06abc {
+    background-color: var(--primary-600) !important;
+    border-radius: 0;
+    padding-bottom: 10px;
+}
