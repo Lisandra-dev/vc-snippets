@@ -1784,4 +1784,9 @@ input {
 .vc-rdb-input .textArea_d0696b > div > div {
   padding-left: 0px;
 }
+.typing_d7ebeb.base_d7ebeb {
+  top: -1.5em;
+  margin-bottom: 15px;
+  background-color: var(--background-primary) !important;
+}
 /*  */
